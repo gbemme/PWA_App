@@ -5,6 +5,7 @@
       offline!
       <template>
         <button  @click="dismiss">Dismiss</button>
+
         <button @click="install">Install</button>
       </template>
     </div>
